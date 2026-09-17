@@ -1,1 +1,1 @@
-print("Hello from the main branch!")
+print("Hello, World! This conflict has been resolved.")
